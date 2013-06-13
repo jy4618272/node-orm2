@@ -1,1 +1,2 @@
---reporter nyan
+--reporter spec
+--timeout 600000
